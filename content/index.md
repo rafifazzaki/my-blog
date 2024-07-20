@@ -1,22 +1,18 @@
 ---
-title: Welcome to Quartz
+title: First note for you
 aliases:
 ---
+Hey, welcome to my blog!
+this is the first note that you see when navigating this blog..
 
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+you can see some topic that you may interested on the left (desktop) or if you are on mobile you can see some topic here, on this page!
 
-check this too:
-[Private Page](https://quartz.jzhao.xyz/features/private-pages)
+>[!tip] Navigating this garden
+>```dataview
+table file.tags as topics from #topics  
 
-\
 
-> [!hint]
-> The folder connected to github by this command:
-> git remote add upstream https://github.com/rafifazzaki/my-blog.git
-> 
-> (also use this): npx quartz sync --no-pull
+You can also see what notes connected with this note on the *Graph View* and which note referenced this note on *Backlinks*.
 
-you can update the site with this:
->[!example]
->npx quartz sync
-
+I think that's all
+Thank you, and happy reading!
