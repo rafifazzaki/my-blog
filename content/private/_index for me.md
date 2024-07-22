@@ -1,7 +1,8 @@
 ---
-{"title":"Welcome to Quartz","aliases":null,"publish":true,"path":"private/_index for me.md","permalink":"/private/index-for-me/","PassFrontmatter":true}
+title: Welcome to Quartz
+aliases: 
+publish: "false"
 ---
-
 
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
