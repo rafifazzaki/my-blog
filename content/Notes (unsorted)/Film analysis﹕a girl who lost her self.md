@@ -1,5 +1,5 @@
 ---
-title: "film analysis: a girl who lost her self"
+title: Perfect Blue
 aliases:
   - a film that perfectly colours blue
 tags:
@@ -9,3 +9,4 @@ publish: "true"
 ---
 this
 this2
+
