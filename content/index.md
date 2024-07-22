@@ -23,6 +23,13 @@ Or you can see some topic that you may interested on the left (desktop) or if yo
 >TABLE description AS "Description" FROM #sections 
 >```
 
+ ``` dataview
+TABLE description AS "Description" FROM #sections 
+```
+
+``` dataview
+TABLE
+```
 
 You can also see what notes connected with this note on the *Graph View* and which note referenced this note on *Backlinks*.
 
