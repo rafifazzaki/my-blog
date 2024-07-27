@@ -19,9 +19,9 @@ SORT this.file.mtime asc
 ```
 %%
 
-| Title                                                                         | Date                    |
-| ----------------------------------------------------------------------------- | ----------------------- |
-| [[Notes (unsorted)/Perfect Blue.md\|film analysis: a girl who lost her self]] | 8:46 PM - July 21, 2024 |
+| Title                                                              | Date                    |
+| ------------------------------------------------------------------ | ----------------------- |
+| [[notes/Perfect Blue.md\|film analysis: a girl who lost her self]] | 8:46 PM - July 21, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 

@@ -19,11 +19,11 @@ TABLE WITHOUT ID link(file.link, title) AS "Notes", file.ctime AS Date WHERE con
 ```
 %%
 
-| Notes                                                                         | Date                    |
-| ----------------------------------------------------------------------------- | ----------------------- |
-| [[Notes (unsorted)/Perfect Blue.md\|film analysis: a girl who lost her self]] | 2:57 PM - July 27, 2024 |
-| [[Section﹕Story Review.md\|Story Review]]                                     | 4:10 PM - July 27, 2024 |
-| [[index.md\|First note for you]]                                              | 4:10 PM - July 27, 2024 |
+| Notes                                                              | Date                    |
+| ------------------------------------------------------------------ | ----------------------- |
+| [[notes/Perfect Blue.md\|film analysis: a girl who lost her self]] | 2:57 PM - July 27, 2024 |
+| [[Section﹕Newest notes.md\|Section﹕Newest notes]]                  | 5:09 PM - July 27, 2024 |
+| [[Section﹕Story Review.md\|Story Review]]                          | 5:09 PM - July 27, 2024 |
 
 %% DATAVIEW_PUBLISHER: end %%
 # Navigating this Garden
@@ -36,8 +36,8 @@ TABLE WITHOUT ID link(file.link, title) AS "Section", description AS "Descriptio
 
 | Section                                           | Description                                       |
 | ------------------------------------------------- | ------------------------------------------------- |
-| [[Section﹕Story Review.md\|Story Review]]         | analysis from media like film, games, manga, etc. |
 | [[Section﹕Newest notes.md\|Section﹕Newest notes]] | \-                                                |
+| [[Section﹕Story Review.md\|Story Review]]         | analysis from media like film, games, manga, etc. |
 
 %% DATAVIEW_PUBLISHER: end %%
 
