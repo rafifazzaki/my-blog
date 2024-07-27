@@ -16,3 +16,14 @@ TABLE WITHOUT ID
 FROM #story_review 
 SORT this.file.mtime asc
 >```
+
+```dataview
+TABLE file.mtime AS "Date" FROM #story_review SORT file.mtime asc
+```
+
+
+>[!tip]
+>```dataview
+>TABLE file.mtime AS "Date" FROM #story_review SORT file.mtime asc
+>```
+
