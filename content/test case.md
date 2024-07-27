@@ -39,12 +39,12 @@ TABLE WITHOUT ID title AS "section", description AS "" FROM #sections
   
   
 >[!warning]  
+> - [[./Film analysis﹕what it feels like to lost herself|Film analysis﹕what it feels like to lost herself]]  
 > - [[./index|index]]  
-> - [[./Film analysis﹕a girl who lost her self|Film analysis﹕a girl who lost her self]]  
 > - [[../backup old|backup old]]  
 > - [[../Saved related links|Saved related links]]  
-> - [[../_index for me|_index for me]]  
 > - [[test case|test case]]  
+> - [[../_index for me|_index for me]]  
 > - [[./Section﹕Newest notes|Section﹕Newest notes]]  
 > - [[./Section﹕Story Review|Section﹕Story Review]]  
 > - [[../quartz default|quartz default]]  
@@ -53,18 +53,18 @@ TABLE WITHOUT ID title AS "section", description AS "" FROM #sections
   
   
   
-| File                                                                                                   |  
-| ------------------------------------------------------------------------------------------------------ |  
-| [[./index\|index]]                                                                                    |  
-| [[./Film analysis﹕a girl who lost her self\|Film analysis﹕a girl who lost her self]] |  
-| [[../backup old\|backup old]]                                                                  |  
-| [[../Saved related links\|Saved related links]]                                                |  
-| [[../_index for me\|_index for me]]                                                            |  
-| [[test case\|test case]]                                                                    |  
-| [[./Section﹕Newest notes\|Section﹕Newest notes]]                                                      |  
-| [[./Section﹕Story Review\|Section﹕Story Review]]                                                      |  
-| [[../quartz default\|quartz default]]                                                        |  
-| [[../Templater Test\|Templater Test]]                                                        |  
+| File                                                                                                                       |  
+| -------------------------------------------------------------------------------------------------------------------------- |  
+| [[./Film analysis﹕what it feels like to lost herself\|Film analysis﹕what it feels like to lost herself]] |  
+| [[./index\|index]]                                                                                                        |  
+| [[../backup old\|backup old]]                                                                                      |  
+| [[../Saved related links\|Saved related links]]                                                                    |  
+| [[test case\|test case]]                                                                                        |  
+| [[../_index for me\|_index for me]]                                                                                |  
+| [[./Section﹕Newest notes\|Section﹕Newest notes]]                                                                          |  
+| [[./Section﹕Story Review\|Section﹕Story Review]]                                                                          |  
+| [[../quartz default\|quartz default]]                                                                            |  
+| [[../Templater Test\|Templater Test]]                                                                            |  
   
   
   
