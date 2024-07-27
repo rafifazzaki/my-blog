@@ -22,13 +22,11 @@ SORT this.file.mtime asc
 LIMIT 20
 >>```
 
+
 ```dataview
 TABLE file.mtime AS "Date" SORT file.mtime asc
 ```
 
-
->[!tip]
->```dataview
->TABLE file.mtime AS "Date" SORT file.mtime asc
->```
-
+``` dataview
+TABLE file.mtime AS "Date" SORT file.mtime asc
+```

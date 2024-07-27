@@ -21,6 +21,10 @@ SORT this.file.mtime asc
 TABLE file.mtime AS "Date" FROM #story_review SORT file.mtime asc
 ```
 
+``` dataview
+TABLE file.mtime AS "Date" FROM #story_review SORT file.mtime asc
+```
+
 
 >[!tip]
 >```dataview
