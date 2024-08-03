@@ -1,6 +1,5 @@
 ---
-title: 
+title: Templater Test
 aliases: 
-publish: 
 tags:
 ---
